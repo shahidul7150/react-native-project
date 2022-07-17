@@ -1,0 +1,7 @@
+{
+    "workbench.colorCustomizations": {
+        "tab.activeBackground": "#2dd404f5",
+        "tab.hoverBackground": "#ffdd1d7a",
+        "gitDecoration.modifiedResourceForeground": "#fcfcfc"
+    },
+  }
